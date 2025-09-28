@@ -144,7 +144,7 @@
         
         <!-- Title -->
         <h1 class="text-3xl lg:text-4xl font-bold mb-2 text-gray-900">
-          MUNICIPALITY OF TAGOLOAN <b style="color: violet"> <br> WORKING HERE!!</b>
+          MUNICIPALITY OF TAGOLOAN <small style="color: indigo"> <br> Version 5.1</small>
         </h1>
         <p class="text-lg text-gray-600 mb-1">Province of Misamis Oriental</p>
         <div class="w-16 h-0.5 bg-gray-400 mx-auto my-4"></div>
