@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body.background-image {
+  background: #f0f0f0;
+  height: 100vh;
+}
+
+body {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #425db6;
+  padding: 30px;
+  border-radius: 8px;
+  color: white;
+  width: 300px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card label {
+  font-size: 14px;
+  margin-top: 10px;
+  display: block;
+}
+
+.card input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border-radius: 4px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.card .forgot {
+  display: block;
+  font-size: 12px;
+  text-align: right;
+  margin-bottom: 15px;
+  color: #ccc;
+  text-decoration: none;
+}
+
+.login-btn, .register-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #3264f5;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.register-link {
+  display: block;
+  text-align: center;
+  background-color: #1eb146;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}
