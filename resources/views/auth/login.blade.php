@@ -128,10 +128,6 @@
 
 <body class="min-h-screen flex">
 
-
-
-
-  <!-- Main Container -->
   <div class="flex w-full min-h-screen">
     <!-- Left Side - Logo and Info -->
     <div class="flex-1 flex flex-col justify-center items-center p-8 lg:p-16 text-gray-800 relative overflow-hidden bg-gray-50">
